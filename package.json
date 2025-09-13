@@ -1,5 +1,5 @@
 {
-	"name": "cloudflare-worker",
+	"name": "github-profile-dashboard",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
